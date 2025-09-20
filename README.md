@@ -65,4 +65,12 @@ You can use the following demo accounts to test the app:
 - **Admin Panel:** Develop an admin dashboard for managing the entire system.  
 - **Offline Support:** Allow some features to work without an internet connection.  
 
+## 👨‍💻 Author
+
+- **Name:** Ayan Saha  
+- **Project:** BottleBank - Plastic Bottle Return & Reward System  
+- **Email:** ayansaha982@gmail.com 
+  
+
+---
 
