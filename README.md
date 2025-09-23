@@ -55,6 +55,7 @@ You can use the following demo accounts to test the app:
 - **Shopkeeper**
   - **Email:** `shop@example.com`
   - **Password:** `password2`
+[Fresh Rewards Project prototype.pdf](https://github.com/user-attachments/files/22496308/Fresh.Rewards.Project.prototype.pdf)
 
 ---
 
